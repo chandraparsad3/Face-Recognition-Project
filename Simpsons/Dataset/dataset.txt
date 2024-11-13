@@ -1,0 +1,1 @@
+Data sets for the Simpsons -  https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
